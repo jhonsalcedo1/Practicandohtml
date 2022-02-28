@@ -1,0 +1,22 @@
+     /* 
+     h2+p {
+        color: red;
+    }
+    es arriba de p
+     */
+     /* 
+      aca se pinta los parrafos
+      en hermanos generales  h2~p {
+         color: red;
+     }*/
+     /* cuando un p es hija directa
+     de un div
+     div>p {
+         color: red;
+     }*/
+     /*
+     descendiente
+     a todas las etiquetas abajo  
+      div p {
+          color : red;
+      }
