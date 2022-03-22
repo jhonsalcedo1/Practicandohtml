@@ -1,17 +1,25 @@
-p{
-    color:brown;
-    font-size: 40px ;
+p {
+    color: brown;
+    font-size: 40px;
 }
+
+
 /* clase*/
 
-.parrafo{
-
-    color:blue;
+.parrafo {
+    color: blue;
     font-size: 20px;
 }
+
+
 /*id*/
 
-#texto{
-    color:blueviolet;
+#texto {
+    color: blueviolet;
+    font-size: 24px;
+}
+
+h1 {
+    color: blueviolet;
     font-size: 24px;
 }
